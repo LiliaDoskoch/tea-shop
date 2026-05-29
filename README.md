@@ -118,3 +118,5 @@ npx prisma studio
 ```
 ## Live Demo
 [https://teashop-xxx.vercel.app](https://teashop-vert.vercel.app/)
+
+## Thank you for ypur attention!
